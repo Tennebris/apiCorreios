@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "Scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "correios-brasil": "^2.0.4",
     "cors": "^2.8.5",
